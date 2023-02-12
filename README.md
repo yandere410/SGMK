@@ -1,7 +1,7 @@
  e2e-тесты для сценариев входа в приложение и создания обращения в техподдержку
 
-для запуска pip install -r requirements.txt
+для установки зависимостей  pip install -r requirements.txt
 
-pytest -s -v tests
+для запуска теста pytest -s -v tests
 
 написанно на питоне.
